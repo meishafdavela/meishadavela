@@ -1,0 +1,1 @@
+print('Uncle Ben once said, "With great power comes great responsibility."')
