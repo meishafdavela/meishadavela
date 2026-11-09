@@ -1,0 +1,4 @@
+# exercise11.1/city_function.py
+def city_country(city, country):
+    """Return a string in the format 'City, Country'."""
+    return f"{city.title()}, {country.title()}"
